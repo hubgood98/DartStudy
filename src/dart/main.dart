@@ -8,5 +8,7 @@ void main()
 
   print(newList);
 
+  final newBlackPink = blackPinkList.map((name) => name);
+
   print(newList.toList());
 }

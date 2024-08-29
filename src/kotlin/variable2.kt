@@ -1,3 +1,5 @@
+package kotlin
+
 //형 변환도 사용 가능
 fun main() {
 

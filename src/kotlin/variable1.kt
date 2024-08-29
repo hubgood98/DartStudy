@@ -1,3 +1,5 @@
+package kotlin
+
 const val num = 20 //Top레벨 상수 가장 우선적으로 호출
 
 fun main() {

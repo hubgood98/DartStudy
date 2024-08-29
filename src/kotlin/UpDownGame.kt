@@ -1,3 +1,5 @@
+package kotlin
+
 import kotlin.random.Random
 import kotlin.system.exitProcess
 
