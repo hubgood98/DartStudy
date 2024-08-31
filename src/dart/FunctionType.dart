@@ -8,8 +8,12 @@ int addTwoNumbers2(int a, [int b = 3]) //b를 지정안하면 기본값 2
   return a+b;
 }
 
+
+
 void main()
 {
-  print(addTwoNumbers(a: 1, b: 2));
+  int result = addTwoNumbers(a: 3, b: 5);
+
+  print(result);
   print(addTwoNumbers2(1));
 }
